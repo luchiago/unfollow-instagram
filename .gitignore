@@ -136,4 +136,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# File of usernames extension
+*.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/python
