@@ -14,7 +14,7 @@ def login():
     passwordInput.send_keys(Keys.ENTER)
     if TWO_FACTOR:
         """
-        If 2FA is enabled, the user 
+        If 2FA is enabled, the user
         will have time to put the code
         """
         sleep(30)
