@@ -137,6 +137,8 @@ dmypy.json
 .pytype/
 
 # File of usernames extension
-*.txt
+errors.txt
+followers.txt
+users.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python

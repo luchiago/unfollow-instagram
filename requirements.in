@@ -1,0 +1,7 @@
+flake8==3.9.2
+isort==5.9.3
+autopep8==1.5.7
+mypy==0.910
+selenium==3.141.0
+python-dotenv==0.19.0
+black==21.7b0
